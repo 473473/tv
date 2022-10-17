@@ -1,0 +1,51 @@
+#EXTM3U
+#EXTINF:-1 group-title="Lista MX", DE PELICULA SD
+http://regioplay.xyz/php/SR_REGIO_800122_/tpnuevo02.php?c=335&tokennn=Regio&f=.m3u8
+#EXTINF:-1 group-title="Lista MX", STAR CINEMA SD
+http://regioplay.xyz/php/SR_REGIO_800122_/tpnuevo02.php?c=1729&tokennn=Regio&f=.m3u8
+#EXTINF:-1 group-title="Lista MX", TL NOVELAS SD
+http://regioplay.xyz/php/SR_REGIO_800122_/tpnuevo02.php?c=83&tokennn=Regio&f=.m3u8
+#EXTINF:-1 group-title="Lista MX", DISTRITO COMEDIA SD
+http://regioplay.xyz/php/SR_REGIO_800122_/tpnuevo02.php?c=78&tokennn=Regio&f=.m3u8
+#EXTINF:-1 group-title="Lista MX", DISCOVERY CHANNEL
+http://regioplay.xyz/php/SR_REGIO_800122_/tpnuevo02.php?c=86&tokennn=Regio&f=.m3u8  
+#EXTINF:-1 group-title="Lista MX", ANIMAL PLANET
+http://regioplay.xyz/php/SR_REGIO_800122_/tpnuevo02.php?c=88&tokennn=Regio&f=.m3u8
+#EXTINF:-1 group-title="Lista MX", MTV HITS SD
+http://regioplay.xyz/php/SR_REGIO_800122_/tpnuevo02.php?c=213&tokennn=Regio&f=.m3u8  
+#EXTINF:-1 group-title="Lista MX", VH1 CLASSIC SD
+http://regioplay.xyz/php/SR_REGIO_800122_/tpnuevo02.php?c=214&tokennn=Regio&f=.m3u8
+#EXTINF:-1 group-title="Lista MX", VH1 SD 
+http://regioplay.xyz/php/SR_REGIO_800122_/tpnuevo02.php?c=217&tokennn=Regio&f=.m3u8  
+#EXTINF:-1 group-title="Lista MX", TELEHIT URBANO SD
+http://regioplay.xyz/php/SR_REGIO_800122_/tpnuevo02.php?c=218&tokennn=Regio&f=.m3u8
+#EXTINF:-1 group-title="Lista MX", BANDAMAX SD
+http://regioplay.xyz/php/SR_REGIO_800122_/tpnuevo02.php?c=221&tokennn=Regio&f=.m3u8
+#EXTINF:-1 group-title="Lista MX", FOROTV SD
+http://regioplay.xyz/php/SR_REGIO_800122_/tpnuevo02.php?c=19&tokennn=Regio&f=.m3u8
+#EXTINF:-1  group-title="DistroRegio" , Cine Sureno
+https://regioplay.xyz/php/SR_REGIO_800122_/distroregio.php?token=SrRegio&c=cine-sureno&f=.m3u8
+#EXTINF:-1  group-title="DistroRegio" , Cine Real
+https://regioplay.xyz/php/SR_REGIO_800122_/distroregio.php?token=SrRegio&c=cine-real-latam&f=.m3u8
+#EXTINF:-1  group-title="DistroRegio" , Casa Comedy
+https://regioplay.xyz/php/SR_REGIO_800122_/distroregio.php?token=SrRegio&c=casa-comedy&f=.m3u8
+#EXTINF:-1 group-title="Lista MX", LAS ESTRELLAS
+http://regioplay.xyz/php/SR_REGIO_800122_/tpnuevo02.php?c=17&tokennn=Regio&f=.m3u8
+#EXTINF:-1 group-title="Lista MX", CANAL 5
+http://regioplay.xyz/php/SR_REGIO_800122_/tpnuevo02.php?c=20&tokennn=Regio&f=.m3u8
+#EXTINF:-1 group-title="Lista MX", AZTECA 7
+http://regioplay.xyz/php/SR_REGIO_800122_/tpnuevo02.php?c=21&tokennn=Regio&f=.m3u8
+#EXTINF:-1 group-title="Lista MX", SPACE
+http://regioplay.xyz/php/SR_REGIO_800122_/tpnuevo02.php?c=129&tokennn=Regio&f=.m3u8  
+#EXTINF:-1 group-title="Lista MX", AMC 
+http://regioplay.xyz/php/SR_REGIO_800122_/tpnuevo02.php?c=131&tokennn=Regio&f=.m3u8  
+#EXTINF:-1 group-title="Lista MX", STUDIO UNIVERSAL
+http://regioplay.xyz/php/SR_REGIO_800122_/tpnuevo02.php?c=132&tokennn=Regio&f=.m3u8
+#EXTINF:-1 group-title="Lista MX", FXM SD 
+http://regioplay.xyz/php/SR_REGIO_800122_/tpnuevo02.php?c=332&tokennn=Regio&f=.m3u8
+#EXTINF:-1 group-title="Lista MX", STAR  
+http://regioplay.xyz/php/SR_REGIO_800122_/tpnuevo02.php?c=46&tokennn=Regio&f=.m3u8
+#EXTINF:-1 group-title="Lista MX", SONY  
+http://regioplay.xyz/php/SR_REGIO_800122_/tpnuevo02.php?c=48&tokennn=Regio&f=.m3u8  
+#EXTINF:-1 group-title="Lista MX", WARNER TV  
+http://regioplay.xyz/php/SR_REGIO_800122_/tpnuevo02.php?c=52&tokennn=Regio&f=.m3u8 
